@@ -1,0 +1,201 @@
+patient_id,age,gender,diagnosis,drug_name,brand_or_generic,days_supply,claim_cost,site_of_care,savings_opportunity,estimated_savings
+1,58,M,Rheumatoid Arthritis,Lantus,Brand,30,685,Retail,Lower-cost insulin review,137.0
+2,48,M,Rheumatoid Arthritis,Lantus,Brand,90,371,Retail,Lower-cost insulin review,74.2
+3,32,F,Atrial Fibrillation,Xarelto,Brand,60,1063,Specialty,No immediate opportunity,0.0
+4,50,M,Hyperlipidemia,Ozempic,Brand,60,785,Specialty,No immediate opportunity,0.0
+5,56,M,Hypertension,Diovan,Brand,90,198,Specialty,Generic ARB opportunity,128.70000000000002
+6,81,F,Diabetes,Eliquis,Brand,90,966,Retail,No immediate opportunity,0.0
+7,50,M,Hypertension,Eliquis,Brand,30,1046,Specialty,No immediate opportunity,0.0
+8,38,F,Atrial Fibrillation,Stelara,Brand,60,5041,Mail Order,Specialty drug utilization review,504.1
+9,37,M,Rheumatoid Arthritis,Lantus,Brand,60,677,Retail,Lower-cost insulin review,135.4
+10,69,F,Hypertension,Xarelto,Brand,60,961,Specialty,No immediate opportunity,0.0
+11,33,F,Atrial Fibrillation,Ozempic,Brand,90,505,Specialty,No immediate opportunity,0.0
+12,63,F,Hyperlipidemia,Metformin,Generic,60,48,Mail Order,No immediate opportunity,0.0
+13,69,M,Atrial Fibrillation,Crestor,Brand,60,339,Mail Order,Generic statin opportunity,237.29999999999998
+14,55,M,Hyperlipidemia,Jardiance,Brand,30,529,Retail,No immediate opportunity,0.0
+15,36,M,Diabetes,Humira,Brand,90,6928,Mail Order,Biosimilar review opportunity,1385.6000000000001
+16,37,M,Rheumatoid Arthritis,Eliquis,Brand,30,992,Mail Order,No immediate opportunity,0.0
+17,70,F,Diabetes,Jardiance,Brand,60,480,Retail,No immediate opportunity,0.0
+18,53,M,Rheumatoid Arthritis,Lantus,Brand,60,656,Mail Order,Lower-cost insulin review,131.20000000000002
+19,66,M,Rheumatoid Arthritis,Eliquis,Brand,30,1138,Retail,No immediate opportunity,0.0
+20,68,M,Diabetes,Metformin,Generic,90,18,Mail Order,No immediate opportunity,0.0
+21,42,M,Diabetes,Metformin,Generic,30,46,Specialty,No immediate opportunity,0.0
+22,68,M,Rheumatoid Arthritis,Jardiance,Brand,30,656,Retail,No immediate opportunity,0.0
+23,80,F,Hyperlipidemia,Lantus,Brand,60,436,Specialty,Lower-cost insulin review,87.2
+24,57,F,Hyperlipidemia,Diovan,Brand,60,283,Specialty,Generic ARB opportunity,183.95000000000002
+25,54,M,Diabetes,Metformin,Generic,30,32,Retail,No immediate opportunity,0.0
+26,42,M,Rheumatoid Arthritis,Diovan,Brand,90,265,Specialty,Generic ARB opportunity,172.25
+27,38,F,Atrial Fibrillation,Crestor,Brand,30,304,Mail Order,Generic statin opportunity,212.79999999999998
+28,53,M,Rheumatoid Arthritis,Metformin,Generic,60,48,Retail,No immediate opportunity,0.0
+29,78,F,Hyperlipidemia,Xarelto,Brand,60,512,Mail Order,No immediate opportunity,0.0
+30,78,M,Diabetes,Stelara,Brand,30,6458,Mail Order,Specialty drug utilization review,645.8000000000001
+31,31,F,Atrial Fibrillation,Humira,Brand,30,3001,Retail,Biosimilar review opportunity,600.2
+32,31,M,Hyperlipidemia,Eliquis,Brand,60,1037,Specialty,No immediate opportunity,0.0
+33,84,M,Rheumatoid Arthritis,Lantus,Brand,30,573,Mail Order,Lower-cost insulin review,114.60000000000001
+34,34,F,Hypertension,Ozempic,Brand,60,679,Specialty,No immediate opportunity,0.0
+35,35,F,Atrial Fibrillation,Humira,Brand,90,6272,Mail Order,Biosimilar review opportunity,1254.4
+36,55,M,Rheumatoid Arthritis,Xarelto,Brand,90,802,Retail,No immediate opportunity,0.0
+37,68,F,Diabetes,Humira,Brand,90,4959,Retail,Biosimilar review opportunity,991.8000000000001
+38,52,M,Hypertension,Diovan,Brand,90,327,Mail Order,Generic ARB opportunity,212.55
+39,30,F,Hyperlipidemia,Metformin,Generic,30,6,Retail,No immediate opportunity,0.0
+40,70,M,Rheumatoid Arthritis,Lantus,Brand,90,258,Specialty,Lower-cost insulin review,51.6
+41,53,F,Rheumatoid Arthritis,Crestor,Brand,30,310,Specialty,Generic statin opportunity,217.0
+42,64,F,Diabetes,Crestor,Brand,90,233,Retail,Generic statin opportunity,163.1
+43,75,F,Hypertension,Stelara,Brand,60,4919,Mail Order,Specialty drug utilization review,491.90000000000003
+44,33,M,Atrial Fibrillation,Diovan,Brand,90,310,Mail Order,Generic ARB opportunity,201.5
+45,62,F,Hyperlipidemia,Humira,Brand,90,3639,Mail Order,Biosimilar review opportunity,727.8000000000001
+46,51,F,Atrial Fibrillation,Ozempic,Brand,90,774,Specialty,No immediate opportunity,0.0
+47,56,F,Atrial Fibrillation,Crestor,Brand,60,176,Retail,Generic statin opportunity,123.19999999999999
+48,77,M,Hyperlipidemia,Humira,Brand,90,3452,Retail,Biosimilar review opportunity,690.4000000000001
+49,57,F,Atrial Fibrillation,Humira,Brand,60,6243,Retail,Biosimilar review opportunity,1248.6000000000001
+50,70,M,Atrial Fibrillation,Ozempic,Brand,30,498,Specialty,No immediate opportunity,0.0
+51,64,F,Diabetes,Jardiance,Brand,90,344,Retail,No immediate opportunity,0.0
+52,52,M,Rheumatoid Arthritis,Jardiance,Brand,60,665,Retail,No immediate opportunity,0.0
+53,83,F,Rheumatoid Arthritis,Metformin,Generic,60,35,Specialty,No immediate opportunity,0.0
+54,31,M,Rheumatoid Arthritis,Ozempic,Brand,60,1062,Specialty,No immediate opportunity,0.0
+55,69,M,Diabetes,Metformin,Generic,90,21,Specialty,No immediate opportunity,0.0
+56,84,F,Rheumatoid Arthritis,Lantus,Brand,60,419,Retail,Lower-cost insulin review,83.80000000000001
+57,36,M,Hyperlipidemia,Crestor,Brand,30,162,Retail,Generic statin opportunity,113.39999999999999
+58,43,F,Rheumatoid Arthritis,Crestor,Brand,90,293,Mail Order,Generic statin opportunity,205.1
+59,61,M,Rheumatoid Arthritis,Stelara,Brand,30,3833,Specialty,Specialty drug utilization review,383.3
+60,51,M,Hyperlipidemia,Ozempic,Brand,60,713,Specialty,No immediate opportunity,0.0
+61,66,M,Atrial Fibrillation,Ozempic,Brand,30,843,Mail Order,No immediate opportunity,0.0
+62,74,F,Hyperlipidemia,Xarelto,Brand,60,1173,Mail Order,No immediate opportunity,0.0
+63,42,F,Hyperlipidemia,Eliquis,Brand,60,1055,Specialty,No immediate opportunity,0.0
+64,48,F,Hypertension,Eliquis,Brand,90,1056,Specialty,No immediate opportunity,0.0
+65,52,M,Diabetes,Jardiance,Brand,30,366,Retail,No immediate opportunity,0.0
+66,76,F,Diabetes,Metformin,Generic,30,5,Retail,No immediate opportunity,0.0
+67,68,F,Atrial Fibrillation,Humira,Brand,60,6343,Retail,Biosimilar review opportunity,1268.6000000000001
+68,55,F,Rheumatoid Arthritis,Lantus,Brand,30,325,Specialty,Lower-cost insulin review,65.0
+69,43,F,Atrial Fibrillation,Diovan,Brand,90,178,Retail,Generic ARB opportunity,115.7
+70,41,F,Hypertension,Xarelto,Brand,60,852,Retail,No immediate opportunity,0.0
+71,62,F,Atrial Fibrillation,Lantus,Brand,90,349,Specialty,Lower-cost insulin review,69.8
+72,65,F,Hyperlipidemia,Metformin,Generic,90,9,Specialty,No immediate opportunity,0.0
+73,61,M,Atrial Fibrillation,Metformin,Generic,30,23,Mail Order,No immediate opportunity,0.0
+74,57,F,Rheumatoid Arthritis,Stelara,Brand,60,3496,Mail Order,Specialty drug utilization review,349.6
+75,80,M,Atrial Fibrillation,Humira,Brand,90,3956,Retail,Biosimilar review opportunity,791.2
+76,39,M,Hyperlipidemia,Humira,Brand,30,4191,Retail,Biosimilar review opportunity,838.2
+77,80,F,Rheumatoid Arthritis,Stelara,Brand,90,6324,Retail,Specialty drug utilization review,632.4000000000001
+78,58,F,Hypertension,Metformin,Generic,60,12,Specialty,No immediate opportunity,0.0
+79,70,M,Hyperlipidemia,Stelara,Brand,60,3114,Retail,Specialty drug utilization review,311.40000000000003
+80,40,M,Hyperlipidemia,Stelara,Brand,30,4516,Retail,Specialty drug utilization review,451.6
+81,39,M,Diabetes,Diovan,Brand,90,313,Retail,Generic ARB opportunity,203.45000000000002
+82,47,M,Atrial Fibrillation,Eliquis,Brand,30,947,Mail Order,No immediate opportunity,0.0
+83,64,M,Diabetes,Lantus,Brand,30,466,Specialty,Lower-cost insulin review,93.2
+84,51,M,Rheumatoid Arthritis,Xarelto,Brand,90,1128,Retail,No immediate opportunity,0.0
+85,70,M,Hyperlipidemia,Xarelto,Brand,30,795,Mail Order,No immediate opportunity,0.0
+86,76,F,Atrial Fibrillation,Xarelto,Brand,30,905,Mail Order,No immediate opportunity,0.0
+87,50,F,Atrial Fibrillation,Diovan,Brand,90,329,Retail,Generic ARB opportunity,213.85
+88,82,F,Hypertension,Lantus,Brand,90,358,Specialty,Lower-cost insulin review,71.60000000000001
+89,64,M,Atrial Fibrillation,Metformin,Generic,90,9,Mail Order,No immediate opportunity,0.0
+90,41,M,Hypertension,Stelara,Brand,60,3750,Retail,Specialty drug utilization review,375.0
+91,75,M,Hypertension,Ozempic,Brand,30,918,Specialty,No immediate opportunity,0.0
+92,34,M,Atrial Fibrillation,Metformin,Generic,60,6,Mail Order,No immediate opportunity,0.0
+93,30,F,Hyperlipidemia,Crestor,Brand,30,258,Mail Order,Generic statin opportunity,180.6
+94,74,F,Hyperlipidemia,Lantus,Brand,60,466,Mail Order,Lower-cost insulin review,93.2
+95,73,F,Rheumatoid Arthritis,Eliquis,Brand,60,844,Specialty,No immediate opportunity,0.0
+96,32,M,Atrial Fibrillation,Eliquis,Brand,60,438,Specialty,No immediate opportunity,0.0
+97,57,F,Atrial Fibrillation,Metformin,Generic,90,24,Retail,No immediate opportunity,0.0
+98,32,M,Hyperlipidemia,Lantus,Brand,60,250,Retail,Lower-cost insulin review,50.0
+99,62,F,Atrial Fibrillation,Humira,Brand,60,6480,Specialty,Biosimilar review opportunity,1296.0
+100,83,M,Rheumatoid Arthritis,Jardiance,Brand,30,329,Mail Order,No immediate opportunity,0.0
+101,47,M,Diabetes,Eliquis,Brand,30,931,Specialty,No immediate opportunity,0.0
+102,83,F,Rheumatoid Arthritis,Humira,Brand,90,4396,Retail,Biosimilar review opportunity,879.2
+103,45,F,Hyperlipidemia,Metformin,Generic,30,36,Specialty,No immediate opportunity,0.0
+104,37,F,Hyperlipidemia,Xarelto,Brand,60,489,Retail,No immediate opportunity,0.0
+105,56,F,Diabetes,Diovan,Brand,30,341,Retail,Generic ARB opportunity,221.65
+106,42,F,Atrial Fibrillation,Jardiance,Brand,30,461,Specialty,No immediate opportunity,0.0
+107,35,F,Rheumatoid Arthritis,Eliquis,Brand,30,652,Mail Order,No immediate opportunity,0.0
+108,39,F,Hypertension,Diovan,Brand,90,343,Retail,Generic ARB opportunity,222.95000000000002
+109,62,F,Diabetes,Jardiance,Brand,60,368,Mail Order,No immediate opportunity,0.0
+110,50,F,Diabetes,Humira,Brand,60,4802,Mail Order,Biosimilar review opportunity,960.4000000000001
+111,62,F,Diabetes,Humira,Brand,90,4484,Mail Order,Biosimilar review opportunity,896.8000000000001
+112,77,M,Hyperlipidemia,Humira,Brand,30,3404,Retail,Biosimilar review opportunity,680.8000000000001
+113,32,M,Atrial Fibrillation,Jardiance,Brand,30,607,Retail,No immediate opportunity,0.0
+114,48,M,Atrial Fibrillation,Metformin,Generic,60,14,Retail,No immediate opportunity,0.0
+115,74,M,Hyperlipidemia,Humira,Brand,60,3050,Retail,Biosimilar review opportunity,610.0
+116,61,F,Hyperlipidemia,Humira,Brand,90,3487,Mail Order,Biosimilar review opportunity,697.4000000000001
+117,83,F,Rheumatoid Arthritis,Metformin,Generic,90,38,Specialty,No immediate opportunity,0.0
+118,73,M,Rheumatoid Arthritis,Humira,Brand,30,4077,Retail,Biosimilar review opportunity,815.4000000000001
+119,66,M,Hypertension,Lantus,Brand,90,456,Mail Order,Lower-cost insulin review,91.2
+120,63,F,Hypertension,Lantus,Brand,60,671,Specialty,Lower-cost insulin review,134.20000000000002
+121,63,F,Diabetes,Eliquis,Brand,60,846,Retail,No immediate opportunity,0.0
+122,59,M,Hypertension,Crestor,Brand,90,228,Retail,Generic statin opportunity,159.6
+123,33,F,Diabetes,Jardiance,Brand,60,534,Retail,No immediate opportunity,0.0
+124,63,F,Atrial Fibrillation,Xarelto,Brand,60,468,Retail,No immediate opportunity,0.0
+125,52,M,Rheumatoid Arthritis,Eliquis,Brand,60,510,Retail,No immediate opportunity,0.0
+126,56,M,Hypertension,Eliquis,Brand,30,594,Specialty,No immediate opportunity,0.0
+127,50,M,Hypertension,Eliquis,Brand,60,802,Retail,No immediate opportunity,0.0
+128,35,M,Atrial Fibrillation,Ozempic,Brand,30,804,Specialty,No immediate opportunity,0.0
+129,43,F,Atrial Fibrillation,Stelara,Brand,90,4968,Retail,Specialty drug utilization review,496.8
+130,76,F,Rheumatoid Arthritis,Metformin,Generic,90,26,Retail,No immediate opportunity,0.0
+131,65,M,Diabetes,Humira,Brand,90,4049,Retail,Biosimilar review opportunity,809.8000000000001
+132,76,M,Hypertension,Xarelto,Brand,90,1118,Specialty,No immediate opportunity,0.0
+133,74,F,Rheumatoid Arthritis,Crestor,Brand,90,279,Mail Order,Generic statin opportunity,195.29999999999998
+134,52,F,Rheumatoid Arthritis,Eliquis,Brand,90,1022,Retail,No immediate opportunity,0.0
+135,67,M,Rheumatoid Arthritis,Stelara,Brand,90,6577,Retail,Specialty drug utilization review,657.7
+136,39,M,Diabetes,Lantus,Brand,30,277,Mail Order,Lower-cost insulin review,55.400000000000006
+137,73,M,Diabetes,Ozempic,Brand,30,873,Retail,No immediate opportunity,0.0
+138,32,M,Atrial Fibrillation,Xarelto,Brand,60,793,Mail Order,No immediate opportunity,0.0
+139,51,F,Diabetes,Xarelto,Brand,90,510,Specialty,No immediate opportunity,0.0
+140,35,F,Hypertension,Diovan,Brand,60,250,Mail Order,Generic ARB opportunity,162.5
+141,74,F,Atrial Fibrillation,Crestor,Brand,30,208,Retail,Generic statin opportunity,145.6
+142,50,F,Hyperlipidemia,Jardiance,Brand,60,399,Mail Order,No immediate opportunity,0.0
+143,38,M,Rheumatoid Arthritis,Crestor,Brand,90,204,Mail Order,Generic statin opportunity,142.79999999999998
+144,53,M,Hypertension,Crestor,Brand,90,185,Mail Order,Generic statin opportunity,129.5
+145,78,F,Rheumatoid Arthritis,Ozempic,Brand,60,517,Retail,No immediate opportunity,0.0
+146,40,F,Hypertension,Stelara,Brand,90,3846,Retail,Specialty drug utilization review,384.6
+147,55,F,Hyperlipidemia,Jardiance,Brand,90,575,Retail,No immediate opportunity,0.0
+148,41,M,Diabetes,Xarelto,Brand,60,512,Specialty,No immediate opportunity,0.0
+149,65,M,Rheumatoid Arthritis,Ozempic,Brand,90,538,Retail,No immediate opportunity,0.0
+150,39,M,Hypertension,Ozempic,Brand,60,1089,Retail,No immediate opportunity,0.0
+151,49,M,Atrial Fibrillation,Crestor,Brand,30,279,Retail,Generic statin opportunity,195.29999999999998
+152,53,F,Rheumatoid Arthritis,Diovan,Brand,60,292,Mail Order,Generic ARB opportunity,189.8
+153,73,F,Atrial Fibrillation,Humira,Brand,90,4604,Retail,Biosimilar review opportunity,920.8000000000001
+154,64,M,Diabetes,Stelara,Brand,60,5635,Retail,Specialty drug utilization review,563.5
+155,70,M,Hyperlipidemia,Crestor,Brand,60,160,Mail Order,Generic statin opportunity,112.0
+156,34,M,Rheumatoid Arthritis,Jardiance,Brand,60,414,Specialty,No immediate opportunity,0.0
+157,74,F,Diabetes,Xarelto,Brand,60,1000,Mail Order,No immediate opportunity,0.0
+158,61,M,Atrial Fibrillation,Crestor,Brand,60,163,Retail,Generic statin opportunity,114.1
+159,44,M,Diabetes,Lantus,Brand,30,312,Retail,Lower-cost insulin review,62.400000000000006
+160,43,M,Rheumatoid Arthritis,Lantus,Brand,90,699,Mail Order,Lower-cost insulin review,139.8
+161,32,M,Rheumatoid Arthritis,Ozempic,Brand,60,1045,Mail Order,No immediate opportunity,0.0
+162,59,M,Rheumatoid Arthritis,Humira,Brand,30,5035,Specialty,Biosimilar review opportunity,1007.0
+163,66,M,Diabetes,Diovan,Brand,60,246,Specialty,Generic ARB opportunity,159.9
+164,34,M,Hypertension,Stelara,Brand,30,6593,Specialty,Specialty drug utilization review,659.3000000000001
+165,76,F,Atrial Fibrillation,Ozempic,Brand,90,558,Retail,No immediate opportunity,0.0
+166,58,M,Hyperlipidemia,Crestor,Brand,30,154,Specialty,Generic statin opportunity,107.8
+167,65,F,Hypertension,Eliquis,Brand,90,1154,Mail Order,No immediate opportunity,0.0
+168,40,F,Hypertension,Jardiance,Brand,60,397,Specialty,No immediate opportunity,0.0
+169,76,F,Rheumatoid Arthritis,Crestor,Brand,60,172,Retail,Generic statin opportunity,120.39999999999999
+170,47,M,Diabetes,Crestor,Brand,90,339,Mail Order,Generic statin opportunity,237.29999999999998
+171,34,F,Atrial Fibrillation,Xarelto,Brand,90,723,Specialty,No immediate opportunity,0.0
+172,60,F,Diabetes,Humira,Brand,60,3603,Mail Order,Biosimilar review opportunity,720.6
+173,51,M,Diabetes,Crestor,Brand,60,190,Retail,Generic statin opportunity,133.0
+174,75,F,Diabetes,Jardiance,Brand,30,595,Mail Order,No immediate opportunity,0.0
+175,80,F,Atrial Fibrillation,Ozempic,Brand,90,966,Retail,No immediate opportunity,0.0
+176,39,F,Diabetes,Jardiance,Brand,30,386,Specialty,No immediate opportunity,0.0
+177,81,M,Hypertension,Diovan,Brand,90,184,Specialty,Generic ARB opportunity,119.60000000000001
+178,47,M,Hypertension,Stelara,Brand,90,6974,Retail,Specialty drug utilization review,697.4000000000001
+179,53,M,Hyperlipidemia,Eliquis,Brand,60,581,Retail,No immediate opportunity,0.0
+180,78,M,Rheumatoid Arthritis,Crestor,Brand,60,310,Specialty,Generic statin opportunity,217.0
+181,78,M,Diabetes,Stelara,Brand,30,4492,Retail,Specialty drug utilization review,449.20000000000005
+182,51,F,Atrial Fibrillation,Xarelto,Brand,30,1029,Mail Order,No immediate opportunity,0.0
+183,42,F,Rheumatoid Arthritis,Humira,Brand,90,4759,Mail Order,Biosimilar review opportunity,951.8000000000001
+184,58,F,Rheumatoid Arthritis,Humira,Brand,60,3428,Retail,Biosimilar review opportunity,685.6
+185,79,F,Hyperlipidemia,Eliquis,Brand,30,574,Specialty,No immediate opportunity,0.0
+186,30,F,Atrial Fibrillation,Ozempic,Brand,90,1043,Mail Order,No immediate opportunity,0.0
+187,39,F,Rheumatoid Arthritis,Eliquis,Brand,60,1199,Specialty,No immediate opportunity,0.0
+188,84,F,Hypertension,Humira,Brand,90,5134,Retail,Biosimilar review opportunity,1026.8
+189,84,M,Rheumatoid Arthritis,Crestor,Brand,90,214,Retail,Generic statin opportunity,149.79999999999998
+190,76,M,Rheumatoid Arthritis,Crestor,Brand,90,203,Retail,Generic statin opportunity,142.1
+191,64,F,Rheumatoid Arthritis,Crestor,Brand,30,311,Specialty,Generic statin opportunity,217.7
+192,60,M,Hypertension,Jardiance,Brand,90,647,Specialty,No immediate opportunity,0.0
+193,52,M,Rheumatoid Arthritis,Lantus,Brand,30,410,Mail Order,Lower-cost insulin review,82.0
+194,47,F,Diabetes,Xarelto,Brand,90,684,Retail,No immediate opportunity,0.0
+195,71,M,Hypertension,Xarelto,Brand,90,922,Mail Order,No immediate opportunity,0.0
+196,49,M,Atrial Fibrillation,Lantus,Brand,60,645,Specialty,Lower-cost insulin review,129.0
+197,73,M,Hyperlipidemia,Diovan,Brand,60,202,Specialty,Generic ARB opportunity,131.3
+198,39,F,Rheumatoid Arthritis,Crestor,Brand,60,230,Mail Order,Generic statin opportunity,161.0
+199,80,M,Diabetes,Humira,Brand,60,6953,Retail,Biosimilar review opportunity,1390.6000000000001
+200,38,F,Rheumatoid Arthritis,Diovan,Brand,60,252,Specialty,Generic ARB opportunity,163.8
